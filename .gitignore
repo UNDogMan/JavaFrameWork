@@ -1,0 +1,11 @@
+**/.idea/
+**/*.iml
+**/*.iws
+**/log/
+**/target/
+*.log
+/**/out
+*.db
+*.swp
+debug.log
+.md
